@@ -5,6 +5,7 @@
 *** PLEASE NOTE: This game is officially supported on the following devices only: iPhone 7, 7 Plus, 8, 8 Plus, X, XR, 11, 11 Pro, 11 Pro Max, iPod Touch 7th Gen, iPad Air 3, and iPad Pro. ***  
   
   
+  
 Niko Bellic, Johnny Klebitz, and Luis Lopez all have one thing in common – they live in the worst city in America.  
   
 Liberty City is a very different place in the 21st century. The most famous skyline in the world now belies a city gripped by fear and suspicion. In the shadow of an uncertain economy and the threat of terrorism, organized criminals, corrupt officials, and beleaguered security forces vie for supremacy in a city that is desperately trying to become a suburb. It is still a place where anything is possible, depending on how much of yourself you are prepared to sacrifice in the process. Liberty City worships money and status, and is heaven for those who have them and a living nightmare for those who don’t. 
