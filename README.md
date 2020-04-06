@@ -61,4 +61,4 @@ Copyright
 **© 2020**  
   
   
-<span style="color:blue">some *Developer Website* text</span>
+`#hexhex`
