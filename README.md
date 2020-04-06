@@ -61,4 +61,5 @@ Copyright
 **© 2020**  
   
   
-`#0000EE`
+[Developer Website](https://www.rockstargames.com/)  
+[Privacy Policy](https://www.rockstargames.com/privacy/)  
