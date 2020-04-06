@@ -39,11 +39,23 @@ www.facebook.com/rockstargames
 www.twitter.com/rockstargames  
   
 ## Information
-Seller                              Size                              Category  
-**Rockstar Games, Inc**             **7.5 GB**                        **Games: Adventure**  
+Seller   
+**Rockstar Games, Inc**  
   
-Compatibility                       Languages                         Age Rating  
-**iOS, iPadOS**                     **English and 6 more**            **17+**  
+Size  
+**7.5 GB**  
   
-Copyright
-© 2020
+Category  
+**Games: Adventure**  
+  
+Compatibility  
+**iPhone and iPad**  
+  
+Languages  
+**English and 6 more**  
+  
+Age Rating  
+**17+**  
+  
+Copyright  
+**© 2020**  
