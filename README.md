@@ -24,9 +24,9 @@ Languages Supported: English, French, Italian, German, Spanish, Russian and Japa
   
 *To listen to your custom playlist, simply create a playlist titled “GTAIV”, launch the game, and select the radio station “MIXTAPE”.  
   
-Mobile Version developed by War Drum Studios & Brecken Lusk 
+Mobile Version developed by War Drum Studios & Brecken Lusk  
 www.wardrumstudios.com  
-www.github.com/BreckenLusk
+www.github.com/BreckenLusk  
   
 Find out more:  
 www.rockstargames.com  
