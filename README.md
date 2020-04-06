@@ -1,10 +1,7 @@
 # Grand Theft Auto IV: 10th Anniversary Edition
-## What's New
-**Version 0.1**  
-**1d ago**  
+## What's New 
 Please Note: This game is still under development and there is no download link available currently, as it has not been released to the public. Once it is ready for beta testers, I will provide a signup link.  
-  
-General bug fixes and improvements.
+
 ## Preview
 Niko Bellic, Johnny Klebitz, and Luis Lopez all have one thing in common – they live in the worst city in America.  
   
