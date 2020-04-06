@@ -24,8 +24,9 @@ Languages Supported: English, French, Italian, German, Spanish, Russian and Japa
   
 *To listen to your custom playlist, simply create a playlist titled “GTAIV”, launch the game, and select the radio station “MIXTAPE”.  
   
-Mobile Version developed by War Drum Studios  
+Mobile Version developed by War Drum Studios & Brecken Lusk 
 www.wardrumstudios.com  
+www.github.com/BreckenLusk
   
 Find out more:  
 www.rockstargames.com  
@@ -36,3 +37,13 @@ www.youtube.com/rockstargames
 Follow us:  
 www.facebook.com/rockstargames  
 www.twitter.com/rockstargames  
+  
+## Information
+Seller                              Size                              Category  
+**Rockstar Games, Inc**             **7.5 GB**                        **Games: Adventure**  
+  
+Compatibility                       Languages                         Age Rating  
+**iOS, iPadOS**                     **English and 6 more**            **17+**  
+  
+Copyright
+© 2020
